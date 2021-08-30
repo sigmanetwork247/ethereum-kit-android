@@ -9,10 +9,10 @@ object Configuration {
     const val walletId = "walletId"
     const val defaultsWords = "apart approve black comfort steel spin real renew tone primary key cherry"
 
-    const val infuraProjectId = "2a1306f1d12f4c109a4d4fb9be46b02e"
-    const val infuraSecret = "fc479a9290b64a84a15fa6544a130218"
-    const val etherscanKey = "GKNHXT22ED7PRVCKZATFZQD1YI7FK9AAYE"
-    const val bscScanKey = "5ZGSHWYHZVA8XZHB8PF6UUTRNNB4KT43ZZ"
+    const val infuraProjectId = "9ac35cca27654dc4bdbfb5a57512eeca"
+    const val infuraSecret = "b9657a2ef9fa48e5b3da7df6c6f8f38d"
+    const val etherscanKey = "7Y77D8UFQBEFQVKIRV3T1DRZS8BA2RBEYX"
+    const val bscScanKey = "KQ86NQ44HRTR733QU1SIGGV3D7E54N2IAW"
 
     val erc20Tokens: List<Erc20Token>
         get() {
